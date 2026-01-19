@@ -1,6 +1,4 @@
 """
-main.py: pátý projekt do Engeto Online Python Akademie
-
 author: Jarmila Kroulová
 email: jarmilxxx@seznam.cz
 """ 
